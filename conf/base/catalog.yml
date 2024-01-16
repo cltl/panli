@@ -1,0 +1,4 @@
+
+panli:
+  type: pandas.CSVDataset
+  filepath: data/panli.csv
